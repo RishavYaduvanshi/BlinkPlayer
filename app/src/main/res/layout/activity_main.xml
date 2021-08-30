@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <com.rishav.blynkplayer.Helper
+        android:id="@+id/lookme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal">
+
+        <com.google.android.material.slider.Slider
+            android:id="@+id/brightness"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="10.0dip"
+            android:layout_toLeftOf="@id/volume"
+            android:rotation="270.0"
+            android:valueFrom="0"
+            android:valueTo="100"
+            app:labelBehavior="withinBounds"
+            app:labelStyle="@style/Widget.MaterialComponents.TextInputLayout.FilledBox" />
+
+        <SeekBar
+            android:id="@+id/volume"
+            android:layout_width="100.0dip"
+            android:layout_height="fill_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="70.0dip"
+            android:layout_toLeftOf="@id/rot"
+            android:rotation="270.0"
+            android:valueFrom="0"
+            android:valueTo="100" />
+
+        <Button
+            android:id="@+id/rot"
+            android:layout_width="24.0dip"
+            android:layout_height="24.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_margin="5.0dip"
+            android:background="@drawable/rotation" />
+    </RelativeLayout>
+</FrameLayout>

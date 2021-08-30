@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BlynkPlayer/app/src/main/res/drawable-v24/background.xml" value="0.1" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/drawable-v24/state_nav.xml" value="0.1" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/activity_main.xml" value="0.23177083333333334" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/activity_splash.xml" value="0.23177083333333334" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/activity_video_folder.xml" value="0.23177083333333334" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/activity_video_list.xml" value="0.23177083333333334" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/folder_items.xml" value="0.18611111111111112" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/fragment_files.xml" value="0.23177083333333334" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/fragment_folder.xml" value="0.23177083333333334" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/video_items.xml" value="0.1" />
+        <entry key="..\:/BlynkPlayer/app/src/main/res/layout/wallet_test_layout.xml" value="0.23177083333333334" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/arrowback.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/background.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/backward.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/forward.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/icon.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/pause.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/play.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/rotation.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/settings.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable-v24/state_nav.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable/ic_baseline_folder.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/activity_sim_player.xml" value="0.13360507246376813" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/activity_splash.xml" value="0.13360507246376813" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/activity_video_folder.xml" value="0.11354166666666667" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/activity_video_list.xml" value="0.2" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/folder_items.xml" value="0.264" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/fragment_files.xml" value="0.13360507246376813" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/layout/fragment_folder.xml" value="0.13360507246376813" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/BlynkPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24583333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
