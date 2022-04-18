@@ -1,1 +1,1 @@
-# BlynkPlayer
+# BlinkPlayer
